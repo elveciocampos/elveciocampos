@@ -22,7 +22,7 @@
 </div>
 
 
-</br><p> Desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novas soluções e desafios. Com dedicação e criatividade, transforma ideias em código eficiente e funcional. Entusiasta de boas práticas e aprendizado contínuo, acredita que a programação não é apenas trabalho, mas uma verdadeira arte. </p>
+</br><p> Desenvolvedor apaixonado por tecnologia e inovação, sempre em busca de novas soluções e desafios. Com dedicação e criatividade, transforma ideias em código eficiente e funcional. Entusiasta de boas práticas e aprendizado contínuo, acredito que a programação não é apenas trabalho, mas uma verdadeira arte. </p>
 
 
 
